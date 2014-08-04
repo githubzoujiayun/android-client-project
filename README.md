@@ -7,14 +7,15 @@ android-client-project
 
 ====================
 首先是Trinea大牛的android-open-project https://github.com/Trinea/android-open-project
-
+建议大家学习时有必要看的Google Android官方培训课程中文版http://hukai.me/android-training-course-in-chinese/index.html
 
 #### 一、9Gag客户端
-	项目地址：\<br>
-	项目演示：\<br>
-	Demo地址：http\<br>
-	使用库：<br>
-	经验小结：\<br>
+	
+	项目地址：https://github.com/Mixiaoxiao/9GAG	https://github.com/stormzhang/9GAG
+	项目演示：
+	Demo地址：http
+	使用库：
+	经验小结：
 	重点：
 
 ####为了方便平时查看
