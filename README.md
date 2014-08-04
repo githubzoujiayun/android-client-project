@@ -11,12 +11,12 @@ android-client-project
 
 #### 一、9Gag客户端
 	
-	项目地址：[https://github.com/Mixiaoxiao/9GAG](https://github.com/Mixiaoxiao/9GAG)	[https://github.com/stormzhang/9GAG](https://github.com/stormzhang/9GAG)
-	项目演示：
-	Demo地址：http
-	使用库：
-	经验小结：
-	重点：
+1.	项目地址：[https://github.com/Mixiaoxiao/9GAG](https://github.com/Mixiaoxiao/9GAG)<br>			     		[https://github.com/stormzhang/9GAG](https://github.com/stormzhang/9GAG)<br>
+	项目演示：<br>
+	Demo地址：http<br>
+	使用库：<br>
+	经验小结：<br>
+	重点：<br>
 
 ####为了方便平时查看
 Android开源项目分类汇总
