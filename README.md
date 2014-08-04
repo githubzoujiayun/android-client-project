@@ -12,11 +12,13 @@ android-client-project
 #### 一、9Gag客户端
 	
 1.	项目地址：[https://github.com/Mixiaoxiao/9GAG](https://github.com/Mixiaoxiao/9GAG)<br>			     		[https://github.com/stormzhang/9GAG](https://github.com/stormzhang/9GAG)<br>
-	项目演示：<br>
+	项目演示：mixiaoxiao版本![Renderings](https://github.com/bushijie/android-client-project/blob/master/picture/9gag.gif)<br> stormzhang版本![Renderings](https://github.com/bushijie/android-client-project/blob/master/picture/9gag2.gif)<br>
 	Demo地址：http<br>
-	使用库：<br>
-	经验小结：<br>
-	重点：<br>
+
+	经验小结：Volley适合于请求api配合Gson解析真是极好的，
+<br>图片oom问题在universal-image-loader的处理下变得非常简单，volley也可用于加载图片，但受制于队列机制会阻塞队列，且没有UIL强大<br>photoView 库在很多图片手势中应用非常广泛ps出现java.lang.IllegalStateException: ImageView no longer exists. You should not use this PhotoViewAttacher any more.的bug解决方法[https://github.com/chrisbanes/PhotoView/issues/50](https://github.com/chrisbanes/PhotoView/issues/50)，<br>
+	重点：①对Fragment进行了封装，重点封装网络请求类，逻辑处理可借鉴版本2，<br>
+	      ②版本2 Listview中数据解析后先以数据库的方式存储然后用CursorAdapte进读取展现。
 
 ####为了方便平时查看
 Android开源项目分类汇总
