@@ -1,8 +1,23 @@
 android-client-project
 ======================
-收集安卓项目，学习好的开发模式和思想，为开发更好的应用
+## 收集安卓项目，学习好的开发模式和思想，为开发更好的应用\<br>
 本项目受Trinea启发，平时一直会下载一些demo进行学习，时间久了会遗忘一些很优秀的东西，这里主要想将平时学习和改进的可发布的项目。
-首先是Trinea大牛的android-open-project https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC
+
+
+
+====================
+首先是Trinea大牛的android-open-project https://github.com/Trinea/android-open-project
+
+
+#### 一、9Gag客户端
+	项目地址：\<br>
+	项目演示：\<br>
+	Demo地址：http\<br>
+	使用库：<br>
+	经验小结：\<br>
+	重点：
+
+####为了方便平时查看
 Android开源项目分类汇总
 ====================
 > 如果你也对开源实现库的实现原理感兴趣，欢迎 Star 和 Fork [Android优秀开源项目实现原理解析](https://github.com/android-cn/android-open-project-analysis)  
