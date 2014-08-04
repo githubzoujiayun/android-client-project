@@ -6,9 +6,12 @@ android-client-project
 
 
 ====================
-首先是Trinea大牛的android-open-project https://github.com/Trinea/android-open-project
+首先是Trinea大牛的android-open-project https://github.com/Trinea/android-open-project<br>
 建议大家学习时有必要看的Google Android官方培训课程中文版http://hukai.me/android-training-course-in-chinese/index.html
-
+<br>分享几个收集整许多开发库的网站[http://a.code4app.com/](http://a.code4app.com/)[http://www.23code.com/](http://www.23code.com/)【】
+#### 我的一些Demo
+1.    SlideImageView对ImageView封装实现图片随感应器左右位移【】![image](https://github.com/bushijie/SlideImageView/blob/master/assets/show.gif)[https://github.com/bushijie/SlideImageView]https://github.com/bushijie/SlideImageView<br>
+	仿最美壁纸演示视频[]()
 #### 一、9Gag客户端
 	
 1.	项目地址：[https://github.com/Mixiaoxiao/9GAG](https://github.com/Mixiaoxiao/9GAG)<br>			     		[https://github.com/stormzhang/9GAG](https://github.com/stormzhang/9GAG)<br>
